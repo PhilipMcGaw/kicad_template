@@ -1,4 +1,7 @@
-# KiCad6.0
+# KiCad Default Project setup.
+
+Clone this repro into ~/Documents/KiCad/6.0/template/Default (will work out the windows path, and linux paths later)
+
 
 
 
