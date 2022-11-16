@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Sick_of_Beige")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/_Misc/Sick_of_Beige.pretty")(options "")(descr "Sick of Beige PCB Outlines"))
+  (lib (name "SquashedFly Logo")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Logos/SquashedFly Logo.pretty")(options "")(descr "Squashed Fly Logos"))
+  (lib (name "Passives")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Passives/Passives.pretty")(options "")(descr "Passive Components"))
+  (lib (name "Pickering - Read Relay")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Relays/Pickering - Read Relay.pretty")(options "")(descr "Pickering Relays"))
+)

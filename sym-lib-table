@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Power_Rails")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/_Misc/Power_Rails.kicad_sym")(options "")(descr "Power Rails"))
+  (lib (name "SquashedFly Logo")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Logos/SquashedFly Logo.kicad_sym")(options "")(descr "SquashedFly Logos"))
+  (lib (name "Passives")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Passives/Passives.kicad_sym")(options "")(descr "Passive Components"))
+  (lib (name "Pickering - Read Relay")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Relays/Pickering - Read Relay.kicad_sym")(options "")(descr "Pickering Relays"))
+)

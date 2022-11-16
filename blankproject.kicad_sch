@@ -1,8 +1,13 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+  (uuid f300c530-8a2e-490d-a453-f684a0f971c7)
 
   (paper "A4")
+
+  (title_block
+    (date "2022-11-16")
+    (company "SquashedFly")
+  )
 
   (lib_symbols
   )

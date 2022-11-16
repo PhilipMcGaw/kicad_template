@@ -345,7 +345,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EuroCard160mmX100mm.kicad_pro",
+    "filename": "blankproject.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -382,7 +382,7 @@
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "common/Paper Frames/SquashedFly.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -418,7 +418,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "common/Paper Frames/SquashedFly.kicad_wks",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -427,7 +427,7 @@
   },
   "sheets": [
     [
-      "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
+      "f300c530-8a2e-490d-a453-f684a0f971c7",
       ""
     ]
   ],
