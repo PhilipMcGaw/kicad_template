@@ -8,4 +8,5 @@
   (lib (name "HomePlug Adapter")(type "KiCad")(uri "${KIPRJMOD}/common/Components/HomePlug Adapter/HomePlug Adapter.kicad_sym")(options "")(descr ""))
   (lib (name "Picker - Relay")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Relays/Picker - Relay.kicad_sym")(options "")(descr ""))
   (lib (name "D-Subs")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Connectors/D-Subs.kicad_sym")(options "")(descr ""))
+  (lib (name "rp2040")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/ICs/rp2040.kicad_sym")(options "")(descr ""))
 )
