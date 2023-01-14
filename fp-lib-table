@@ -7,4 +7,5 @@
   (lib (name "MAX202")(type "KiCad")(uri "${KIPRJMOD}/common/Components/ICs/MAX202.pretty")(options "")(descr "MAX 202 TTL - UART"))
   (lib (name "Picker - Relay")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Relays/Picker - Relay.pretty")(options "")(descr ""))
   (lib (name "Traco Power - TSR")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Voltage Regulators/Traco Power - TSR.pretty")(options "")(descr ""))
+  (lib (name "rp2040")(type "KiCad")(uri "${KIPRJMOD}/common/Components/ICs/rp2040.pretty")(options "")(descr ""))
 )

@@ -88,8 +88,4 @@
 
   (net 0 "")
 
-  (gr_text "Following IPC 2221 recomendations, if this PCB is to carry high currents the \noutside copper layers shall be composed of 2 Oz CU.\n\nSee other notes to the righ hand side of the schematic above." (at 185.25 178.75) (layer "Cmts.User") (tstamp ad4584dd-53ba-41b0-8be0-4a19dbb07c63)
-    (effects (font (size 1.5 1.5) (thickness 0.3)) (justify left))
-  )
-
 )
