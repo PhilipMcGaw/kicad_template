@@ -9,4 +9,6 @@
   (lib (name "Picker - Relay")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Relays/Picker - Relay.kicad_sym")(options "")(descr ""))
   (lib (name "D-Subs")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Connectors/D-Subs.kicad_sym")(options "")(descr ""))
   (lib (name "rp2040")(type "KiCad")(uri "${KIPRJMOD}/common/Components/ICs/rp2040.kicad_sym")(options "")(descr ""))
+  (lib (name "Sick of Beige")(type "KiCad")(uri "${KIPRJMOD}/common/Components/_Misc/Sick of Beige.kicad_sym")(options "")(descr ""))
+  (lib (name "Wire to Board")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Connectors/Wire to Board.kicad_sym")(options "")(descr ""))
 )
