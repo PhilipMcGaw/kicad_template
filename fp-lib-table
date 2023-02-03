@@ -8,5 +8,5 @@
   (lib (name "Picker - Relay")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Relays/Picker - Relay.pretty")(options "")(descr ""))
   (lib (name "Traco Power - TSR")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Voltage Regulators/Traco Power - TSR.pretty")(options "")(descr ""))
   (lib (name "rp2040")(type "KiCad")(uri "${KIPRJMOD}/common/Components/ICs/rp2040.pretty")(options "")(descr ""))
-  (lib (name "Wire to Board")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Default/common/Components/Connectors/Wire to Board.pretty")(options "")(descr ""))
+  (lib (name "Wire to Board")(type "KiCad")(uri "${KIPRJMOD}/common/Components/Connectors/Wire to Board.pretty")(options "")(descr ""))
 )
