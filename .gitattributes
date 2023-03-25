@@ -1,0 +1,6 @@
+*.kicad_prl linguist-language=Kicad-Layout
+*.kicad_pro linguist-language=Kicad-Layout
+*.kicad_pcb linguist-detectable
+*.kicad_prl linguist-detectable
+*.kicad_pro linguist-detectable
+*.kicad_sch linguist-detectable
