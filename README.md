@@ -1,11 +1,12 @@
 # KiCad Default Project setup.
 
 Clone this repro into the default template location:
-  
-  cd ~/Documents/KiCad/7.0/template
-  git clone git@github.com:PhilipMcGaw/kicad_template.git Default
-  cd Default
-  git submodule update --recursive
+
+```
+cd ~/Documents/KiCad/7.0/templategit clone git@github.com:PhilipMcGaw/kicad_template.git Default
+cd Default
+git submodule update --recursive
+```
 
 | OS | Location |
 | ---- | ----|
